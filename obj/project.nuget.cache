@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xCEUKfGmZmXf14lXsQaGohBg86ophVr3anu6MUc93wfYKbD3vdK6BxXL88VnSV4wZkNcdh83BpWmfToe/VBqNQ==",
+  "success": true,
+  "projectFilePath": "/home/hr/Projects/dotnet/Cookie-Authentication-With-ASP.NET-Core-6-Web-api/Cookie-Authentication-With-ASP.NET-Core-6-Web-api.csproj",
+  "expectedPackageFiles": [
+    "/home/hr/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/hr/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/hr/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/hr/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/hr/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/hr/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
